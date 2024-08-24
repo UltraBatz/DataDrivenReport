@@ -1,4 +1,4 @@
-<h1>Data Driven Report</h1>
+<h1>Data Driven Report (Data Visualization)</h1>
 
 <h2>Purpose</h2>
 The Data-Driven Reports, developed from scratch with a strategic analysis approach, were created to address the lack of visually intuitive and engaging solutions available on existing social media platforms. In addition to meeting this need, the reports were also designed to track team performance, manage business operations, and create documentation In this walkthrough, we will going through step by step of what the reports do, how it works as well as how it can enhance a business performance in the social media world. 
