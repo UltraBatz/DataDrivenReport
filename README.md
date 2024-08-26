@@ -34,100 +34,84 @@ Full PDF file of my projects is available upon request.
 <h2>Data Driven Report Walk-Through:</h2>
 
 <p align="center">
-Dashboard Blueprint Explanation: <br/>
-<img src="https://i.imgur.com/pq9VtCT.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Data Driven Report Blueprint: <br/>
+<img src="https://i.imgur.com/0y4KyTy.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Table Of Content: <br />
-<img src="https://i.imgur.com/h9MQqpQ.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Title: <br />
+<img src="https://i.imgur.com/OJ5ndIh.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Follower Growth: <br />
-<img src="https://i.imgur.com/odVU643.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Introduction: <br />
+<img src="https://i.imgur.com/478zPMD.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Demographics (Geography):  <br/>
-<img src="https://i.imgur.com/bHRdNL9.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Keywords (For Complex Metrics or Terms):  <br/>
+<img src="https://i.imgur.com/EdCNKmF.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Demographics (Age & Gender):  <br/>
-<img src="https://i.imgur.com/IeurUcp.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Dashboard Demographics (Geography, Age & Gender):  <br/>
+<img src="https://i.imgur.com/eaefjLI.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
 Dashboard Demographic (Industry & Job Function):  <br/>
-<img src="https://i.imgur.com/uDrJdF7.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+<img src="https://i.imgur.com/EbB4EQ4.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Overview:  <br/>
-<img src="https://i.imgur.com/L8szLIk.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Metrics Overview:  <br/>
+<img src="https://i.imgur.com/8zoLOw5.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Overview (Explanation Of Win/Loss Rate):  <br/>
-<img src="https://i.imgur.com/jptgSSx.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Metrics Overview (Followers KPI):  <br/>
+<img src="https://i.imgur.com/e4tqgqd.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Insights:  <br/>
-<img src="https://i.imgur.com/7PdrGdS.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Overview Summary:  <br/>
+<img src="https://i.imgur.com/EAtjBsQ.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Insights:  <br/>
-<img src="https://i.imgur.com/eJggU4K.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Overview Summary Cont. (Win/Loss):  <br/>
+<img src="https://i.imgur.com/5bedKQ7.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Rate:  <br/>
-<img src="https://i.imgur.com/91qewLA.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Followers Growth Tracker:  <br/>
+<img src="https://i.imgur.com/6OHFnJM.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Statlab:  <br/>
-<img src="https://i.imgur.com/zgkCChu.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Insights (Views & Viewers):  <br/>
+<img src="https://i.imgur.com/jg4EW8B.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Dashboard Statlab:  <br/>
-<img src="https://i.imgur.com/mzHdxHL.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Rate Comparison:  <br/>
+<img src="https://i.imgur.com/LsT3EFZ.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Statlab Formula Explanation:  <br/>
-<img src="https://i.imgur.com/1xVAffL.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Video Insights & Rate Comparison:  <br/>
+<img src="https://i.imgur.com/JtV7yoS.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Filter (Best Content):  <br/>
-<img src="https://i.imgur.com/OyqZXXy.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Top 3 Content By Insights:  <br/>
+<img src="https://i.imgur.com/izImNgN.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Filter (Worst Content):  <br/>
-<img src="https://i.imgur.com/Sy4RAx1.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Top 3 Content By Rate %:  <br/>
+<img src="https://i.imgur.com/5i2dfRP.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Content Stats (Individual Stats):  <br/>
-<img src="https://i.imgur.com/krC6jSr.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Special Mention:  <br/>
+<img src="https://i.imgur.com/ldA41X1.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Content Stats (Individual Stats):  <br/>
-<img src="https://i.imgur.com/mH9yB8X.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Formats (Tiktok):  <br/>
+<img src="https://i.imgur.com/St16Toh.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Content Stats (Individual Stats):  <br/>
-<img src="https://i.imgur.com/WT9Ypgy.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Formats (LinkedIn):  <br/>
+<img src="https://i.imgur.com/1ORZxFt.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
-Content Stats (Individual Stats):  <br/>
-<img src="https://i.imgur.com/lpAgQQC.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
-<br />
-<br />
-Algorithm Alchemy (How The Algorithm Works):  <br/>
-<img src="https://i.imgur.com/z7jTzNx.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
-<br />
-<br />
-Algorithm Alchemy (How The Algorithm Works):  <br/>
-<img src="https://i.imgur.com/oK6W2I0.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
-<br />
-<br />
-Algorithm Alchemy (How The Algorithm Works):  <br/>
-<img src="https://i.imgur.com/dU1EnoC.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
-<br />
-<br />
-Technical/Backend (Sneak Peak):  <br/>
-<img src="https://i.imgur.com/g1u4nyQ.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
+Strategy:  <br/>
+<img src="https://i.imgur.com/8bQc846.png" height="80%" width="90%" alt="Avant Garde Walkthrough"/>
 <br />
 <br />
 Thank You!  <br/>
